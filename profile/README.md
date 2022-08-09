@@ -9,6 +9,6 @@ Watch us code @ [CasualDevelopment](https://www.youtube.com/channel/UCdlgnwlj8Wg
 ### Use our code!
 *"Get messy, make mistakes, and have fun!"*
 
-<sub>Ms. Frizzle</sub>
+<sub>~Ms. Frizzle</sub>
 
 Feel free to fork any repositories you like, play around with it and come up with your own spectacular creations!
